@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "カモフラージュ / 可不・ゲキヤク・ナースロボ＿タイプＴ",
+  "base_artist": "szri",
+  "createdAt": "2026-02-16T17:17:35.180927Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カモフラージュ",
+      "artist": "szri",
+      "has_synced": false,
+      "path": "select/pl_01_カモフラージュ_szri.txt"
+    }
+  ]
+}
